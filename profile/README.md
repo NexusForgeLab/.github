@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="profile/logo.png" alt="NexusForgeLab Logo" width="120" height="120">
+  <img src="/profile/logo.png" alt="NexusForgeLab Logo" width="120" height="120">
 
   # NexusForgeLab
 
